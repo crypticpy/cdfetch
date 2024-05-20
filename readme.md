@@ -48,7 +48,7 @@ Welcome to the Candid API Grants Data Fetcher! This application helps users fetc
 ## Usage
 1. Run the application:
    ```bash
-   python main.py
+   python app.py
    ```
 2. Follow the prompts to fetch grant data from the Candid API.
 3. Use the saved JSON data into the GrantScope application https://grantscope.streamlit.app/.
